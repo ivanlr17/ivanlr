@@ -2,6 +2,8 @@
 
 Última actualización: octubre de 2026.
 
+Informe completo, con legislación, trámites, capital inicial y probabilidad de éxito por país: https://claude.ai/code/artifact/6f718fcd-d851-449f-a2fb-ff34da1a8acf
+
 Este documento recoge lo decidido hasta ahora en las conversaciones con Claude. Los puntos marcados como **pendiente** hay que validarlos con un abogado del país correspondiente. No es asesoramiento jurídico.
 
 ## 1. La idea
@@ -77,7 +79,7 @@ Cubre deudas, préstamos y servicios ocasionales. La app no presta dinero. La fi
 | Reseña del acreedor | Posible, con condiciones estrictas (abajo) | Sí. La Sección 230 protege a la plataforma por lo que escriben los usuarios | Sí, con más margen | Sí, evitando acoso y publicación de datos personales. Desde el 29 de junio de 2026 existe una Comisión de Seguridad en Línea |
 | Historial de crédito positivo | No existe en los ficheros privados | Sí, comunicándolo a las agencias en formato Metro 2 | Sí. **Pendiente:** requisitos | Solo lo aportan bancos y entidades financieras |
 
-**Condiciones para la reseña en la UE:**
+**Condiciones para la reseña en la UE (aprobadas):**
 - Es una valoración de si "cumplió lo acordado", no un botón de "denunciar impago".
 - Solo puede escribirla quien tuvo un pacto real con esa persona, y solo después del vencimiento, un aviso y un margen de días.
 - El texto se ciñe a hechos, sin insultos ni datos personales.
@@ -150,7 +152,7 @@ Cubre deudas, préstamos y servicios ocasionales. La app no presta dinero. La fi
 
 ### Singapur: laboratorio institucional y expansión
 
-- **Visión:** la app de confianza para la vida diaria en Singapur, casi una red social estándar, con perfiles verificados por Singpass. Pueden usarla ciudadanos, residentes y extranjeros con número de identificación (FIN). El público natural son los recién llegados.
+- **Visión (aprobada):** la app de confianza para la vida diaria en Singapur, casi una red social estándar, con perfiles verificados por Singpass. Pueden usarla ciudadanos, residentes y extranjeros con número de identificación (FIN). El público natural son los recién llegados.
 - **Infraestructura pública que usaría:**
   - Singpass y Myinfo para la identidad;
   - Firma con Singpass;
