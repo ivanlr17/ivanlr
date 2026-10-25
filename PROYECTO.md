@@ -21,7 +21,7 @@ Cubre deudas, préstamos y servicios ocasionales. La app no presta dinero. La fi
 
 ### Para todos los usuarios
 
-- **Verificación de identidad obligatoria.** Foto del documento y selfie con prueba de que la persona está presente. Solo mayores de edad. En EE. UU. se pide además el SSN; en Singapur se usa Singpass.
+- **Verificación de identidad obligatoria y gratuita.** Foto del documento y selfie con prueba de que la persona está presente. Solo mayores de edad. En EE. UU. se pide además el SSN; en Singapur se usa Singpass. El coste (de 0,30 a 2,30 € por persona, una sola vez) lo asume la app, porque cobrarlo frenaría la entrada.
 - **Firma avanzada para todos**, no solo en premium. Debe cumplir el artículo 26 del reglamento eIDAS:
   - estar vinculada solo al firmante;
   - permitir identificarlo;
@@ -34,23 +34,44 @@ Cubre deudas, préstamos y servicios ocasionales. La app no presta dinero. La fi
   - Quien presta el servicio se valora con la confirmación del cliente. Si el cliente no abre una disputa en X días, el servicio se da por cumplido.
   - Las dos valoraciones se pueden recurrir, y el recurso lo revisa una persona.
 - **Disputas.** Si el cliente abre una disputa a tiempo, la cuota retenida no cuenta como impago hasta que se resuelva.
-- **Importe mínimo para pagar a plazos** (orientativo: 150 €). Por debajo, se paga de una vez y el dinero queda retenido hasta que se confirme el servicio.
+- **Importe mínimo para pagar a plazos** (orientativo: 150 €). Por debajo, se paga de una vez y el dinero queda retenido hasta que se confirme el servicio. No es un límite legal: existe porque cada cobro lleva una comisión fija, y PayPal ya permite pagar en 3 plazos desde 30 €. **Pendiente de decidir:** bajarlo a 30 €, con cuotas de al menos 10 €.
 - **Pagos hechos fuera de la app.** Cuentan si quien cobra los confirma o si hay justificante.
 
 ### Premium y fases posteriores
 
 - **Garantía de cobro.** La aporta una aseguradora socia y la app cobra una comisión. El precio depende de la puntuación de quien paga, del importe y del plazo.
+  - La aseguradora gana con las primas, no con la deuda, como en el seguro de impago de alquiler (del 3 al 5 % de la renta anual).
+  - Si paga al acreedor, puede reclamar al deudor lo que pagó (subrogación, artículo 43 de la Ley de Contrato de Seguro). Recuperarlo solo reduce sus pérdidas y abarata la garantía.
+  - **El deudor pierde el acceso a las funciones de la app hasta que pague.** Conserva solo lo necesario para pagar, ver su pacto, recurrir y descargar sus datos.
+  - Si se quisiera ganar con la propia deuda, el modelo sería comprarla con descuento, más cercano al cobro anticipado.
 - **Cobro anticipado.** Solo en una fase posterior, para usuarios verificados con pactos previos y buenas valoraciones. La decisión final es del socio financiero, y el filtro de la app se puede recurrir.
 - **Asesoría jurídica** para los trámites que no requieren abogado (monitorio, monitorio europeo, proceso europeo de escasa cuantía). La da una red de abogados colegiados en cada país. La app ofrece gratis la información general; el consejo sobre un caso concreto lo da el abogado.
 - **Otros servicios:** expediente de reclamación (burofax y monitorio), fiador, comprobación de solvencia con permiso del usuario, certificado de buen pagador, cambio del calendario de pagos y panel para quien presta servicios a menudo.
 
 ### Ingresos
 
-- Los pactos y los recordatorios son gratis.
-- Un pequeño porcentaje de cada cuota cobrada automáticamente.
-- Una suscripción para quien presta servicios a menudo.
-- Pago por uso de la garantía, el expediente, el certificado y la asesoría.
-- El principal coste por usuario es la verificación de identidad y la firma.
+- Los pactos y los recordatorios son gratis y no generan ingresos: sirven para que la gente pruebe la app.
+- **Ingreso principal:** una comisión sobre cada cuota cobrada automáticamente (orientativa: del 1,5 al 2 %, con un mínimo por cuota). La paga quien cobra, nunca quien paga, y el proveedor de pagos la descuenta antes de ingresarle el dinero.
+- **Suscripción para quien presta servicios a menudo**, con panel de clientes, facturas y resumen de ingresos (punto a destacar).
+- Pago por uso de la garantía, el expediente, el certificado y la asesoría, y comisión de la aseguradora por cada garantía.
+- La verificación de identidad y la firma las paga la app, nunca el usuario.
+- **Ejemplo:** un pacto de 600 € en 4 cuotas de 150 € por adeudo SEPA, con comisión del 2 %, deja 12 €. Cobrar cuesta de 0,35 a 2,70 € por cuota, y verificar a las dos personas, de 0,60 a 4,60 € la primera vez. Resultado: entre −3 € y +10 € por pacto.
+
+### Gente que se conoce y dónde encaja mejor (propuestas, pendiente de validar)
+
+- **Riesgo:** a muchas personas que se conocen les incomoda formalizar, y parte de ese mercado no usará la app.
+- **Cómo incluirlas:**
+  - que proponga el pacto quien pide el dinero;
+  - reglas por defecto iguales para todos, para que nadie negocie cláusulas incómodas;
+  - una razón externa para formalizar: Hacienda (modelo 600) o, en EE. UU., el historial de crédito;
+  - tres niveles de formalidad: registro ligero con recordatorios, pacto firmado con cobro automático y pacto con garantía;
+  - modo familia, sin valoraciones ni marcas visibles para otros;
+  - lenguaje neutro ("acuerdo", "plan", "recordatorio") y avisos enviados por la app, no por el amigo;
+  - entrada por grupos: pisos compartidos, viajes, fianzas.
+- **Puntos a destacar:** la prueba ante Hacienda y que se devuelva sin tener que pedir el dinero.
+- **Segmentos con más encaje:** estudiantes Erasmus y jóvenes que se mudan; comunidades migrantes con tradición de ahorro en grupo; recién llegados a Singapur. Encaje medio-alto en familias con préstamos grandes; bajo en grupos muy unidos.
+- **Idea por validar:** un modo de ahorro en grupo al estilo de las tandas, con comprobación legal previa.
+- **Lección de Zirtue y Pigeon:** ninguna presta su dinero (lo pone el amigo; los inversores pagan la empresa). Zirtue creció aliándose con instituciones a las que resuelve un problema propio: cooperativas de crédito, la aseguradora TruStage, más de 20.000 empresas que cobran facturas y MoneyGram.
 
 ## 3. Impagos y reputación
 
