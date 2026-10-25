@@ -43,8 +43,8 @@ Cubre deudas, préstamos y servicios ocasionales. La app no presta dinero. La fi
   - La aseguradora gana con las primas, no con la deuda, como en el seguro de impago de alquiler (del 3 al 5 % de la renta anual).
   - Si paga al acreedor, puede reclamar al deudor lo que pagó (subrogación, artículo 43 de la Ley de Contrato de Seguro). Recuperarlo solo reduce sus pérdidas y abarata la garantía.
   - **El deudor pierde el acceso a las funciones de la app hasta que pague.** Conserva solo lo necesario para pagar, ver su pacto, recurrir y descargar sus datos.
-  - Si se quisiera ganar con la propia deuda, el modelo sería comprarla con descuento, más cercano al cobro anticipado.
-- **Cobro anticipado.** Solo en una fase posterior, para usuarios verificados con pactos previos y buenas valoraciones. La decisión final es del socio financiero, y el filtro de la app se puede recurrir.
+  - **La deuda no se vende (decisión).** La app no vende deudas a empresas de recobro: lo que paga el deudor llega a quien se le debía, directamente o a través de la aseguradora que ya le pagó. Si la cobertura es parcial, lo recuperado se reparte en proporción: con 60 € cubiertos al 80 %, la aseguradora adelanta 48 € y, cuando el deudor paga, 48 € van a la aseguradora y 12 € a quien cobra. La reclamación sigue dentro de la app, sin agencias de recobro; es una condición que habrá que pactar con la aseguradora.
+- **Cobro anticipado.** Solo en una fase posterior, para usuarios verificados con pactos previos y buenas valoraciones. La decisión final es del socio financiero, y el filtro de la app se puede recurrir. **Pendiente de decidir:** si se mantiene, porque también lleva las cuotas del deudor a un tercero (aunque lo pida quien cobra y antes de que haya impago).
 - **Asesoría jurídica** para los trámites que no requieren abogado (monitorio, monitorio europeo, proceso europeo de escasa cuantía). La da una red de abogados colegiados en cada país. La app ofrece gratis la información general; el consejo sobre un caso concreto lo da el abogado.
 - **Otros servicios:** expediente de reclamación (burofax y monitorio), fiador, comprobación de solvencia con permiso del usuario, certificado de buen pagador, cambio del calendario de pagos y panel para quien presta servicios a menudo.
 
@@ -215,6 +215,7 @@ Cubre deudas, préstamos y servicios ocasionales. La app no presta dinero. La fi
 - **España:**
   - ¿La reseña del acreedor por impagos de menos de 50 € es compatible con la LOPDGDD?
   - ¿Qué figura hace falta para ofrecer el seguro de una aseguradora?
+  - ¿Puede la aseguradora reclamar a un familiar que convive con quien cobra? El artículo 43 de la Ley de Contrato de Seguro parece excluirlo, salvo dolo.
   - ¿La herramienta de pactos cuenta como plataforma a efectos de la DAC7?
 - **UE:** ¿cómo se hace la evaluación de impacto de la puntuación y qué supone la sentencia SCHUFA sobre decisiones automatizadas?
 - **EE. UU.:**
